@@ -12,9 +12,9 @@
 
 Product security engineer with 20+ years building security programs that engineering teams actually adopt. I work at the intersection of **secure SDLC**, **agentic AI security**, and **software supply chain**, translating risk into practical controls that ship into CI/CD pipelines without slowing delivery.
 
-At DocuSign I lead a Security Champions program, a Software Supply Chain Security program (code signing, artifact integrity, SLSA/SBOM), and CI/CD security guardrails across product teams. Before that: principal-level consulting at KPMG and EY (AppSec, data security, and regulatory readiness for multiple large clients), and a DevSecOps practice lead at Slalom.
+At Docugign I lead our Security Champions program, build security tools for developers to use on a daily basis, and coding security guardrails across product teams. Before that: principal-level consulting at KPMG and EY (AppSec, data security, and regulatory readiness for multiple large clients), and a DevSecOps practice lead at Slalom.
 
-Currently building open tooling for the **MCP and agentic AI attack surface** — a risk area that is moving faster than most teams' defenses.
+Currently building open tooling for the **MCP and agentic AI attack surface**, a risk area that is moving faster than most teams' defenses.
 
 ---
 
@@ -27,6 +27,16 @@ Static and dynamic security auditor for MCP (Model Context Protocol) servers —
 Built because the agentic AI attack surface (tool poisoning, supply chain compromise, over-permissioned schemas, prompt injection via tool results) is largely undefended and moving into production at speed.
 
 `python` &nbsp; `mcp` &nbsp; `llm-security` &nbsp; `agentic-ai` &nbsp; `appsec` &nbsp; `owasp`
+
+---
+
+### [Veritas-POC](https://github.com/joshconkel/Veritas-POC) &nbsp;`active`
+
+An AI driven local code security scanner built to help developers perform more effective manual secure code reviews. This approach an agentic AI approach with JSON artifact pipelines to let developers know where the needles are in the haystack.
+
+The pipeline scans a directory of source files, runs each file through a chain of specialized security agents (scope → threat model → hypotheses → evidence → fix → gate), and produces structured JSON artifacts and a Markdown report per file, plus a merged summary across all files.
+
+`python` &nbsp; `agenticAI` &nbsp; `security-champions` &nbsp; `securecode` &nbsp; `llm` &nbsp; `owasp`
 
 ---
 
