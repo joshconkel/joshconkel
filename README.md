@@ -22,7 +22,7 @@ Currently building open tooling for the **MCP and agentic AI attack surface**, a
 
 ### [mcp-sentinel](https://github.com/joshconkel/mcp-sentinel) &nbsp;`active`
 
-Static and dynamic security auditor for MCP (Model Context Protocol) servers — the tool layer between LLMs and the systems they act on. Maps findings to **OWASP MCP Top 10**, **OWASP Top 10 for Agentic Applications (2026)**, and **MITRE ATLAS** via a pluggable, versioned rule engine.
+Static and dynamic security auditor for MCP (Model Context Protocol) servers - the tool layer between LLMs and the systems they act on. Maps findings to **OWASP MCP Top 10**, **OWASP Top 10 for Agentic Applications (2026)**, and **MITRE ATLAS** via a pluggable, versioned rule engine.
 
 Built because the agentic AI attack surface (tool poisoning, supply chain compromise, over-permissioned schemas, prompt injection via tool results) is largely undefended and moving into production at speed.
 
@@ -130,8 +130,8 @@ The pipeline scans a directory of source files, runs each file through a chain o
 
 - **80%+ reduction in security review time** (multiple sprints to a single sprint before release) by delivering end-to-end pipeline automation of application security scanning at Slalom (global diagnostics client)
 - **Data Security Program Office** for one of the largest U.S. utilities, safeguarding data for 40M+ customers and 50K+ employees across cloud and on-prem environments (KPMG)
-- **Software Supply Chain Security program** at DocuSign: code signing, artifact integrity verification, and dependency risk management across multiple products
-- **Security Champions program** at DocuSign: gamified hands-on training (Security Journey), self-service tooling, and embedded security ownership across product engineering teams
+- **Software Supply Chain Security program** at Docusign: code signing, artifact integrity verification, and dependency risk management across multiple products
+- **Security Champions program** at Docusign: gamified hands-on training (Security Journey), self-service tooling, and embedded security ownership across product engineering teams
 - **NERC CIP v3 to v5 migration** training and delivery as cybersecurity SME for SCADA/IoT environments (EY)
 - **FISMA/FedRAMP ATO** achieved within first year of building program from scratch (TPMC/SAIC)
 
