@@ -12,7 +12,7 @@
 
 Product security engineer with 20+ years building security programs that engineering teams actually adopt. I work at the intersection of **secure SDLC**, **agentic AI security**, and **software supply chain**, translating risk into practical controls that ship into CI/CD pipelines without slowing delivery.
 
-At Docugign I lead our Security Champions program, build security tools for developers to use on a daily basis, and coding security guardrails across product teams. Before that: principal-level consulting at KPMG and EY (AppSec, data security, and regulatory readiness for multiple large clients), and a DevSecOps practice lead at Slalom.
+At Docusign I lead our Security Champions program, build security tools for developers to use on a daily basis, and coding security guardrails across product teams. Before that: principal-level consulting at KPMG and EY (AppSec, data security, and regulatory readiness for multiple large clients), and a DevSecOps practice lead at Slalom.
 
 Currently building open tooling for the **MCP and agentic AI attack surface**, a risk area that is moving faster than most teams' defenses.
 
